@@ -1,0 +1,10 @@
+.idea
+.DS_Store
+.dart_tool/
+.packages
+
+# Conventional directory for build outputs
+build/
+
+# Directory created by dartdoc
+doc/api/
